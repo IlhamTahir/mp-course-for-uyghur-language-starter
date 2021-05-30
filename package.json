@@ -1,0 +1,15 @@
+{
+  "name": "mp-course-for-uyghur-language-starter",
+  "version": "1.0.0",
+  "description": "MiniProgram Course for Uyghur Language starter",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-theme-default-uyghur": "^1.0.0"
+  }
+}
