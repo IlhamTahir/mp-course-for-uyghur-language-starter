@@ -1,3 +1,9 @@
+---
+sidebar: auto
+next: ./overview
+prev: false
+---
+
 # كىچىك پروگرامما دەرسلىكى 
 
 
