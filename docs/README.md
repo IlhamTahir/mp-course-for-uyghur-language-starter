@@ -16,5 +16,4 @@ features:
 footer: MIT Licensed | Copyright©2021 Ilham Tahir
 
 ---
-
 [![Build Status](https://travis-ci.com/IlhamTahir/mp-course-for-uyghur-language-starter.svg?branch=master)](https://travis-ci.com/IlhamTahir/mp-course-for-uyghur-language-starter)
