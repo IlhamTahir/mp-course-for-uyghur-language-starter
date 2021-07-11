@@ -12,7 +12,7 @@ module.exports = {
 		logo: '/assets/img/logo.png',
 		nav: [
 			{ text: 'باش بەت', link: '/' },
-			{ text: 'مۇندەرىجە', link: '/0-catelog/' },
+			{ text: 'مۇندەرىجە', link: '/0-catalogue/' },
 		]
 	}
 }

@@ -5,7 +5,7 @@ homeText: باشبەت
 heroText: تېز سۈرئەتتە ئەپچاق ئېچىش دەرسلىكى
 tagline: ئىلھام تاھىر يانتاق
 actionText: → باشلاش
-actionLink: /0-catelog
+actionLink: /0-catalogue
 title: باشبەت
 features:
 - title: دەرسلىك نىشانى

@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 next: ./2-application
-prev: ./0-catelog
+prev: ./0-catalogue
 ---
 
 
